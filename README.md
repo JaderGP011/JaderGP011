@@ -15,7 +15,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JaderGP011&bg_color=0d1117&color=4cc9f0&line=b5179e&point=720cb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
- ### Learning right now:
+ ### Learning now:
  ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
  ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
